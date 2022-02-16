@@ -1,4 +1,6 @@
 # vue-rbac-demo
+Check out the article for the full explanation.
+https://www.permify.co/post/implementing-role-based-access-control-in-vue-js
 
 ## Project setup
 ```
